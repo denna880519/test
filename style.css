@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(7.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    
+ 
+}
+   /* 這裡寫 CSS 的語法 */
+   .title{color:#A500CC;font-size:24px;font-weight: bold}
+   .content {margin-top: 10px;color:#B088FF;border:1px dashed #CCBBFF;padding:10px;}
+   .inline {display:inline;color:#E93EFF;}
+    .keyword{color:#E93EFF;}
